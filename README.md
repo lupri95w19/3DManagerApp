@@ -1,6 +1,7 @@
 # 3DManagerApp
 3DManager is an app built to meet my needs, because when I'm bored and don't know what to print, my 3D manager meets MY necessities
 To download, go to release and download the .exe\
+I had problems installing on C/Program Files but worked fine in AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 
 Let me know about your experience.
 
