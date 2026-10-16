@@ -1,5 +1,8 @@
 # 3DManagerApp
 3DManager is an app built to meet my needs, because when I'm bored and don't know what to print, my 3D manager meets MY necessities
+To download, go to release and download the .exe\
+
+Let me know about your experience.
 
 Built with Electron, VUE, Three.JS and font-awesome
 
