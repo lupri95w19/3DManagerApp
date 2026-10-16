@@ -28,7 +28,7 @@ To download, go to [**Releases**](../../releases) and download the `.exe`.
 I had problems installing on `C:/Program Files` but it worked fine in:
 
 ```
-AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+C:\Users\Utente\AppData\Local\Programs\3D File Manager
 ```
 
 
