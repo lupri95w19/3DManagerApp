@@ -12,13 +12,16 @@
 
 ---
 
+
 ## 📖 About
 
 3DManager is an app built to meet my needs, because when I'm bored and don't know what to print, my 3D manager meets **MY** necessities.
 
+
 ## ⬇️ Download
 
 To download, go to [**Releases**](../../releases) and download the `.exe`.
+
 
 ## ⚠️ Installation note
 
@@ -28,16 +31,22 @@ I had problems installing on `C:/Program Files` but it worked fine in:
 AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 ```
 
+
 ## 💬 Feedback
 
 Let me know about your experience.
+
 
 ## 🛠️ Built with
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
 ![Font Awesome](https://img.shields.io/badge/Font_Awesome-528DD7?style=for-the-badge&logo=fontawesome&logoColor=white)
+
 
 ## 🌐 My website
 
